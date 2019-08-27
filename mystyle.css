@@ -1,0 +1,21 @@
+*{
+	margin: 0px;
+}
+.section1{
+	float: left;
+	width: 200px;
+	height: 700px;
+}
+ul{
+	padding: 10px 50px;
+}
+li{
+	padding:10px;
+	list-style-type: none;
+}
+.section2{
+	float:left;
+}
+p{
+	padding: 150px 450px;
+}
